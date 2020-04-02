@@ -13,7 +13,7 @@
       <transform id="route-transform">
         <method ref="myTransformer"/>
       </transform>
-      <log id="route-log" message="jameson and guiness boilermaker >>> ${body}"/>
+      <log id="route-log" message="eyes in the sky >>> ${body}"/>
     </route>
   </camelContext>
 
